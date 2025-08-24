@@ -1,0 +1,11 @@
+{
+  "image": "img_001.jpg",
+  "detections": [
+    {
+      "class": "Glove",
+      "confidence": 0.92,
+      "bbox": [0.35, 0.40, 0.20, 0.25]
+    }
+  ],
+  "inference_time_ms": 18.4
+}
